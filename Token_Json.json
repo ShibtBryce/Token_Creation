@@ -1,1 +1,6 @@
-
+{
+  "name": "Shiba in a Cybertruck",
+  "symbol": "SHIBT",
+  "uri": "https://github.com/ShibtBryce/Token_Creation/blob/main/SHIBT_Image.png",
+  // Other metadata fields as per the Metaplex standard
+}
